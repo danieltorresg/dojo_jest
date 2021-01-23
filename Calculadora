@@ -1,0 +1,5 @@
+Class Calculadora{
+    int sumar (a,b){
+        return a + b
+    }
+}
